@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=linkyouhj&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=linkyouhj&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=radical)
 <!--
 **linkyouhj/linkyouhj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
